@@ -1,0 +1,40 @@
+body{
+    background-color: lightslategray;
+}
+/*.mainDiv{
+    display: flex;
+    flex-flow: row-reverse wrap;
+}*/
+/*#signout{
+    display: block;
+    margin: 0 auto;
+    float: right;
+}*/
+#tableDiv{
+    background-color: white;
+    padding: 10px;
+    border: 1px solid black;
+}
+#postDiv{
+    /*background-color: white;*/
+}
+
+.demo{
+    border-radius: 20px;
+    border: 1px black solid;
+    margin-bottom: 10px; 
+}
+.demo:focus{
+    background-color: lemonchiffon;
+    border-radius: 20px;
+    border: 2px solid blue;
+    margin-bottom: 10px; 
+}
+
+#send{
+    display: block;
+    margin: 0 auto;
+}
+#body{
+    text-align: center;
+}

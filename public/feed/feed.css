@@ -1,0 +1,9 @@
+#body{
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+}
+
+.card{
+    margin: 20px;
+}
